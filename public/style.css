@@ -1,0 +1,40 @@
+body{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #111;
+}
+
+h1{
+  color: white;
+  font-size: 3em;
+}
+
+#addItem{
+  padding:3px 10px;
+  font-family: 'Roboto', sans-serif;
+  background-color: #32CD32;
+  color: #fcf3cf;
+  border: black;
+  border-radius: 10%;
+  font-size: 1.1em;
+}
+
+.styling{
+  color: #32CD32;
+}
+
+#item-list{
+  color:  #fae5d3 ;
+  font-size: 1.5em;
+  font-family: 'Roboto', sans-serif;
+}
+
+button{
+  padding:3px 10px;
+  font-family: 'Roboto', sans-serif;
+  background-color: #cb4335;
+  color: #eafaf1;
+  border: black;
+  border-radius: 10%;
+}
